@@ -16,10 +16,11 @@
 ## Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="16">
+  <!-- Row Set 1 (3 projects) -->
   <tr>
     <td width="33%" valign="top">
       <h3>PASS NOTE</h3>
-      <p>전자문서기반 노트 앱</p>
+      <p>전자문서/인증 기반 노트 앱</p>
     </td>
     <td width="33%" valign="top">
       <h3>MYBUSIM</h3>
@@ -27,7 +28,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>My Healthway</h3>
-      <p>의료 마이데이터 포털</p>
+      <p>의료 마이데이터 통합 포털</p>
     </td>
   </tr>
   <tr>
@@ -46,6 +47,30 @@
         <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Healthway" />
       </a>
     </td>
+  </tr>
+  <!-- Row Set 2 (add next projects here, keep 3 columns) -->
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Hotkey+</h3>
+      <p>생산성 향상을 위한 데스크톱 핫키 유틸리티</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>&nbsp;</h3>
+      <p>&nbsp;</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>&nbsp;</h3>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/kyi7829/Hotkey/releases/tag/v1.0.0" target="_blank">
+        <img src="https://img.shields.io/badge/View_Release-131418?style=for-the-badge&logo=github&logoColor=white" alt="Hotkey+ Release" />
+      </a>
+    </td>
+    <td width="33%" valign="top">&nbsp;</td>
+    <td width="33%" valign="top">&nbsp;</td>
   </tr>
 </table>
 
