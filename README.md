@@ -55,8 +55,8 @@
       <p>생산성 향상을 위한 데스크톱 핫키 유틸리티</p>
     </td>
     <td width="33%" valign="top">
-      <h3>&nbsp;</h3>
-      <p>&nbsp;</p>
+      <h3>Drug Safe</h3>
+      <p>의약품 안전관리 포털</p>
     </td>
     <td width="33%" valign="top">
       <h3>&nbsp;</h3>
@@ -69,7 +69,11 @@
         <img src="https://img.shields.io/badge/View_Release-131418?style=for-the-badge&logo=github&logoColor=white" alt="Hotkey+ Release" />
       </a>
     </td>
-    <td width="33%" valign="top">&nbsp;</td>
+    <td width="33%" valign="top">
+      <a href="https://drugsafe.or.kr" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Drug Safe" />
+      </a>
+    </td>
     <td width="33%" valign="top">&nbsp;</td>
   </tr>
 </table>
