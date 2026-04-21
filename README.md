@@ -15,34 +15,36 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="16">
   <tr>
     <td width="33%" valign="top">
       <h3>PASS NOTE</h3>
-      <p>전자문서/인증 기반 수험생 노트 앱</p>
-      <p>
-        <a href="https://www.passnote.co.kr/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PASS NOTE" />
-        </a>
-      </p>
+      <p>전자문서기반 노트 앱</p>
     </td>
     <td width="33%" valign="top">
       <h3>MYBUSIM</h3>
-      <p>부산대병원 의료 마이데이터 실증 통합 포털</p>
-      <p>
-        <a href="https://mybusim.com/cmm/main/mainPage.do" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MYBUSIM" />
-        </a>
-      </p>
+      <p>의료 마이데이터 실증</p>
     </td>
     <td width="33%" valign="top">
       <h3>My Healthway</h3>
-      <p>의료 마이데이터 통합 포털</p>
-      <p>
-        <a href="https://myhealthway.go.kr/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Healthway" />
-        </a>
-      </p>
+      <p>의료 마이데이터 포털</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.passnote.co.kr/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PASS NOTE" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://mybusim.com/cmm/main/mainPage.do" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MYBUSIM" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://myhealthway.go.kr/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Healthway" />
+      </a>
     </td>
   </tr>
 </table>
@@ -108,4 +110,3 @@
 <div align="right">
   <sub>Last Updated: 2026-04-21</sub>
 </div>
-
